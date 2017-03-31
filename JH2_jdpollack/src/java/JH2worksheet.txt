@@ -1,0 +1,27 @@
+JH2 worksheet
+Comments:
+
+***************** Class Participation    *****************
+Your Class Participation Entry for JH2:
+Discussion board containing your entry: Sharings for JH2 
+Date of your Entry: 9/3/2016
+Subject Line of your entry: Sharings for JH2, NetBeans 'Run File' bug
+
+
+***************** Mortgage Calculator    *****************
+
+JING URL demoing your Program.
+
+http://screencast.com/t/I1lfcFTiOp
+
+Any optional comments regarding this problem.
+Tried to do the math inside the InterestCalculator class but had trouble with variables updating, so due to time constraints I just did it all in the servlet.
+
+***************** One-Liner Program    *****************
+
+JING URL demoing your Program.
+
+http://screencast.com/t/CPPucmue
+
+Any optional comments regarding this problem.
+____________________________________
